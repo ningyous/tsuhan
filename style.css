@@ -54,6 +54,10 @@ header p {
     padding: 5px;
     color: #dcdcdc;
 }
+.item-box a {
+    text-decoration: none;
+    color: #000;
+}
 .Purchase-history-title {
     font-size: 20px;
     margin-left: 10px;
